@@ -1,4 +1,4 @@
-# papers-for-KGs-in-Education
+# Papers-for-KGs-in-Education
 
 ## 2023
 
@@ -44,6 +44,33 @@
 [INCET] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9824657) <br>
 
+- **MathCLM: Mathematical Cognitive Learning Model Based on the Evolution of Knowledge Graph**  <br>
+[ICARCV] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10004260) <br>
+
+- **A Review of Intelligent Application of Educational Knowledge Graph from the Perspective of Artificial Intelligence**  <br>
+[ISET] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9867137) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
 ## 2021
 
 - **Group Cooperative Learning Model and Its Application Based on Group Knowledge Graph**  <br>
@@ -82,6 +109,17 @@
 [] ()  　IEEE  <br> 
 [PDF]( ) <br>
 
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
 ## 2020
 
 - **Research of Scratch Programming Recommendation System Based on MED and Knowledge Graph**  <br>
