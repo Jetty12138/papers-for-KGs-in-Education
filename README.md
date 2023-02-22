@@ -32,6 +32,18 @@
 [FIE] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9962461) <br>
 
+- **Personalized Recommendation of Learning Resources Based on Knowledge Graph**  <br>
+[ICEIT] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690758) <br>
+
+- **Investigating the Incorporation of Machine Learning Concepts in Data Structure Education**  <br>
+[FIE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9274090) <br>
+
+- **Semantic Web: Knowledge Graph of Digital Minimalism Ontology**  <br>
+[INCET] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9824657) <br>
+
 ## 2021
 
 - **Group Cooperative Learning Model and Its Application Based on Group Knowledge Graph**  <br>
@@ -54,6 +66,22 @@
 [TALE] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678627) <br>
 
+- **Construction and Application of Knowledge Graph of Teaching Arrangement for Cross-disciplinary Majors**  <br>
+[CSEI] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477719) <br>
+
+- **Support educational resource accessibility requirements in a knowledge graph modelling framework**  <br>
+[ICALT] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9499912) <br>
+
+- **Research on the Knowledge Graph Construction for Flipped Classroom**  <br>
+[ICCCBDA] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9442516) <br>
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]( ) <br>
+
 ## 2020
 
 - **Research of Scratch Programming Recommendation System Based on MED and Knowledge Graph**  <br>
@@ -72,15 +100,28 @@
 [ICMEIM] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9384717) <br>
 
+- **Investigating the Incorporation of Machine Learning Concepts in Data Structure Education**  <br>
+[FIE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9274090) <br>
+
 ## 2019
 
 - **Course Knowledge Graph Review**  <br>
 [ITME] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8964690) <br>
 
-- ****  <br>
+- **Review on Development of Smart Education**  <br>
+[SOLI] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8955052) <br>
+
+- **CogLearn: A Cognitive Graph-Oriented Online Learning System**  <br>
+[ICDE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731554) <br>
+
+## 2018
+- **KnowEdu: A System to Construct Knowledge Graph for Education**  <br>
 [] ()  　IEEE  <br> 
-[PDF]( ) <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8362657) <br>
 
 - ****  <br>
 [] ()  　IEEE  <br> 
