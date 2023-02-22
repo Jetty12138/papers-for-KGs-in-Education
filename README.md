@@ -25,7 +25,7 @@
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9845857) <br>
 
 - **Knowledge Tracing Based on Gated Heterogeneous Graph Convolutional Networks**  <br>
-[2022 IEEE International Conference on Big Data (Big Data)] ()  　IEEE  <br> 
+[Big Data] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020547) <br>
 
 ## 2021
