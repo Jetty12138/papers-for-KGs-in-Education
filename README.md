@@ -2,213 +2,284 @@
 
 ## 2023
 
-- **A Capability-oriented Method for Integration of Liberal Arts Knowledge Graph in Primary Education**  <br>
-[CIPAE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9610323) <br>
-
 - **Optimal Knowledge Component Extracting Model for Knowledge-Concept Graph Completion in Education**  <br>
 [IEEE Access] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043668) <br>
 
-- **Construction and Application of Knowledge Graph of Teaching Arrangement for Cross-disciplinary Majors**  <br>
-[CSEI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477719) <br>
+- **Description of Personalized Learning Characteristics in Education Oriented Knowledge Graph**  <br>
+[ICISCAE] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3482632.3487457) <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+
 ## 2022
 
-- **The Construction of Knowledge Graphs in the Field of Education under the Perspective of Artificial Intelligence**  <br>
-[CSTE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9973122) <br>
-
-- **A Hybrid Reasoning Method of Knowledge Graph for On-line Arts Education based on Reinforcement Learning**  <br>
-[ICCCS] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9846799) <br>
+- **STDE: A Single-Senior-Teacher Knowledge Distillation Model for High-Dimensional Knowledge Graph Embeddings**  <br>
+[ICICSE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828905) <br>
 
 - **Knowledge Graph based Question Answering System for Remote School Education**  <br>
 [CSI] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9924128) <br>
 
-- **A Novel Knowledge Recommendation Method for Online Arts Education**  <br>
-[ICCCS] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9845857) <br>
-
-- **Knowledge Tracing Based on Gated Heterogeneous Graph Convolutional Networks**  <br>
-[Big Data] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10020547) <br>
-
 - **Analytics 2.0 for Precision Education Driven by Knowledge Map**  <br>
 [FIE] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9962461) <br>
+
+- **A Hybrid Reasoning Method of Knowledge Graph for On-line Arts Education based on Reinforcement Learning**  <br>
+[ICCCS] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9846799) <br>
+
+- **The Construction of Knowledge Graphs in the Field of Education under the Perspective of Artificial Intelligence**  <br>
+[CSTE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9973122) <br>
+
+- **Research hotspots and evolution of domestic knowledge management research in China based on the visualization analysis of CSSCI (2000-2020)**  <br>
+[ICEKIM] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10027429) <br>
+
+- **Construction of Chinese Character Semantic Knowledge Graph for Overseas Chinese Learners**  <br>
+[ICCEAI] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9853432) <br>
 
 - **Personalized Recommendation of Learning Resources Based on Knowledge Graph**  <br>
 [ICEIT] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690758) <br>
 
-- **Investigating the Incorporation of Machine Learning Concepts in Data Structure Education**  <br>
-[FIE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9274090) <br>
-
-- **Semantic Web: Knowledge Graph of Digital Minimalism Ontology**  <br>
-[INCET] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9824657) <br>
-
-- **MathCLM: Mathematical Cognitive Learning Model Based on the Evolution of Knowledge Graph**  <br>
-[ICARCV] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10004260) <br>
+- **Application and Research of Knowledge Graph in the Management of Teachers' Profession Archives in Military Academies**  <br>
+[ICCSIE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10015168) <br>
 
 - **A Review of Intelligent Application of Educational Knowledge Graph from the Perspective of Artificial Intelligence**  <br>
 [ISET] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9867137) <br>
 
 - **Knowledge Graphs in Education and Employability: A Survey on Applications and Techniques**  <br>
-[IEEE Access ] ()  　IEEE  <br> 
+[IEEE Access] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9840388) <br>
 
-- **STDE: A Single-Senior-Teacher Knowledge Distillation Model for High-Dimensional Knowledge Graph Embeddings**  <br>
-[ICICSE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828905) <br>
+- **An Accurate Matching Query Method of Natural Language Knowledge Graph Based on Hierarchical Graph Topological Sequence**  <br>
+[IEEE Access] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722935) <br>
 
-- **Analytics 2.0 for Precision Education Driven by Knowledge Map**  <br>
-[FIE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9962461) <br>
+- **Research on Knowledge Extraction Technology for Knowledge Graph Construction**  <br>
+[APCT] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9845053) <br>
 
-- **Knowledge Graph based Question Answering System for Remote School Education**  <br>
-[CSI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9924128) <br>
+- **Efficient Knowledge Graph Validation via Cross-Graph Representation Learning**  <br>
+[CIKM] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3411902) <br>
 
-- ****  <br>
-[] ()  　IEEE  <br> 
+- **Visualization Analysis of Information Literacy Education Research Based on Knowledge Graph**  <br>
+[CSAE] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3565387.3565417) <br>
+
+- **Knowledge Graph Based Recommendation Algorithm for Educational Resource**  <br>
+[ICETC] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3572549.3572619) <br>
+
+- **Research on Knowledge Graph Construction for Python Programming Language**  <br>
+[LNET] ()  　Springer  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+
 ## 2021
 
 - **Group Cooperative Learning Model and Its Application Based on Group Knowledge Graph**  <br>
 [CSEI] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477710) <br>
 
-- **Research on the Construction Method of Knowledge Graph for Power Grid Education Resources**  <br>
-[CSEI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477728) <br>
-
-- **From the Construction of Knowledge System to the Generation of Learner Portrait Based on Knowledge Graph**  <br>
-[CISAI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9719299) <br>
-
-- **Visual analysis of English curriculum research based on knowledge graph**  <br>
-[CEI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9574599) <br>
-
-- **Dynamic Educational Knowledge Graph Model via Information Entropy for Knowledge Building**  <br>
-[TALE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678627) <br>
-
 - **Construction and Application of Knowledge Graph of Teaching Arrangement for Cross-disciplinary Majors**  <br>
 [CSEI] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477719) <br>
 
-- **Support educational resource accessibility requirements in a knowledge graph modelling framework**  <br>
-[ICALT] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9499912) <br>
+- **Enhanced Knowledge Graph for True-false Question Generation: A Case Study in Computer Networks Course**  <br>
+[WAIE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743154) <br>
 
-- **Research on the Knowledge Graph Construction for Flipped Classroom**  <br>
-[ICCCBDA] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9442516) <br>
-
-- **Research on the Application of Knowledge Graph in the Integrated Course STEAM**  <br>
-[ISCTIS] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9603489) <br>
-
-- **Semantics of the Black-Box: Can Knowledge Graphs Help Make Deep Learning Systems More Interpretable and Explainable?**  <br>
-[IEEE Internet Computing] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357868) <br>
-
-- **A debugging-assisted Code Recommendation Method based on Knowledge Graph in Programming Course**  <br>
-[CSEI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477718) <br>
-
-- **Group Cooperative Learning Model and Its Application Based on Group Knowledge Graph**  <br>
-[CSEI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477710) <br>
-
-- **Construction and Application of Knowledge Graph of Teaching Arrangement for Cross-disciplinary Majors**  <br>
-[CSEI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477719) <br>
+- **A Capability-oriented Method for Integration of Liberal Arts Knowledge Graph in Primary Education**  <br>
+[CIPAE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9610323) <br>
 
 - **The Construction of Learning Diagnosis and Resources Recommendation System Based on Knowledge Graph**  <br>
 [PIC] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687035) <br>
 
+- **Visual analysis of English curriculum research based on knowledge graph**  <br>
+[CEI] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9574599) <br>
+
+- **Research on the Construction Method of Knowledge Graph for Power Grid Education Resources**  <br>
+[CSEI] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9477728) <br>
+
+- **Research on the Application of Knowledge Graph in the Integrated Course STEAM**  <br>
+[ISCTIS] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9603489) <br>
+
+- **Intelligent recommendation system based on knowledge graph for scientific research teams**  <br>
+[IHMSC] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556098) <br>
+
+- **Research on the Knowledge Graph Construction for Flipped Classroom**  <br>
+[ICCCBDA] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9442516) <br>
+
+- **An Effective Method for Constructing Knowledge Graph of Online Course**  <br>
+[ICBDE] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3451400.3451403) <br>
+
+- **A Review of Rural Basic Education Research in the CSSCI Database: Visualization Analysis of Knowledge Graph**  <br>
+[ICDEL] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3474995.3475015) <br>
+
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
 
 ## 2020
-
-- **Research of Scratch Programming Recommendation System Based on MED and Knowledge Graph**  <br>
-[ICMCCE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9421594) <br>
-
-- **Research on The Construction of Course Knowledge Graph of High School Information Technology**  <br>
-[ICAIE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9262571) <br>
 
 - **Knowledge Graph Based Teaching Analysis on Circuit Course**  <br>
 [ICMEIM] ()  　IEEE  <br> 
@@ -218,86 +289,175 @@
 [ICMEIM] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9384717) <br>
 
-- **Investigating the Incorporation of Machine Learning Concepts in Data Structure Education**  <br>
-[FIE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9274090) <br>
-
-- **Professional Competence Management for University Students Based on Knowledge Graph Technology**  <br>
-[ICEIEC] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9152327) <br>
-
-- **Knowledge Graph Based Teaching Analysis on Circuit Course**  <br>
-[ICMEIM] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9384719) <br>
+- **Research on The Construction of Course Knowledge Graph of High School Information Technology**  <br>
+[ICAIE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9262571) <br>
 
 - **Coreference Resolution Improves Educational Knowledge Graph Construction**  <br>
 [ICKG] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194546) <br>
 
-- **Design of Evaluation and Recommendation System for High School Physics Learning Based on Knowledge Graph**  <br>
-[ICMEIM] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9384717) <br>
+- **Construction of hierarchical knowledge graph based on deep learning**  <br>
+[ICAICA] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181920) <br>
+
+- **What is the schema of your knowledge graph?: leveraging knowledge graph embeddings and clustering for expressive taxonomy learning**  <br>
+[SBD] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3391274.3393637) <br>
+
+- **Knowledge Base Question Answering System Based on Knowledge Graph Representation Learning**  <br>
+[ICIAI] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3390557.3394296) <br>
+
+- **Automatic Construction of Subject Knowledge Graph based on Educational Big Data**  <br>
+[ICBDE] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3396452.3396458) <br>
+
+- **Learning Path Generator Based on Knowledge Graph**  <br>
+[IC4E] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3450148.3450155) <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 ## 2019
 
-- **Course Knowledge Graph Review**  <br>
-[ITME] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8964690) <br>
-
-- **Review on Development of Smart Education**  <br>
-[SOLI] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8955052) <br>
-
-- **CogLearn: A Cognitive Graph-Oriented Online Learning System**  <br>
-[ICDE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731554) <br>
-
 - **MOOC-KG: A MOOC Knowledge Graph for Cross-Platform Online Learning Resources**  <br>
-[] (ICEIEC)  　IEEE  <br> 
+[ICEIEC] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784572) <br>
 
-- **Automated Constmction of Course Knowledge Graph Based on China MOOC Platform**  <br>
-[TALE] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9225862) <br>
+- **Automatic Question Generation based on MOOC Video Subtitles and Knowledge Graph**  <br>
+[ICIET] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3323771.3323820) <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
+[] ()  　ACM  <br> 
 [PDF]() <br>
 
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
 
 ## 2018
+
+- **Construction and Application of Knowledge Graph System in Computer Science**  <br>
+[SPAC] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8965547) <br>
+
 - **KnowEdu: A System to Construct Knowledge Graph for Education**  <br>
-[] ()  　IEEE  <br> 
+[IEEE Access] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8362657) <br>
 
-- ****  <br>
-[] ()  　IEEE  <br> 
-[PDF]( ) <br>
+- **An automatic knowledge graph construction system for K-12 education**  <br>
+[L@S] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698) <br>
 
 - ****  <br>
-[] ()  　IEEE  <br> 
-[PDF]( ) <br>
-## 2023
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+- ****  <br>
+[] ()  　ACM  <br> 
+[PDF]() <br>
+
+
+## 2014
+
+- **Research on domain knowledge graph based on the large scale online knowledge fragment**  <br>
+[WARTIA] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6976259) <br>
+
+
+
+## Language knowledge graph
+
+- **A Vocabulary Recommendation System based on Knowledge Graph for Chinese Language Learning**  <br>
+[ICALT] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9155609) <br>
+
+
 ## 2023
 ## 2023
 ## 2023
