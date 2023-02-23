@@ -10,27 +10,6 @@
 [ICISCAE] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3482632.3487457) <br>
 
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-
 ## 2022
 
 - **STDE: A Single-Senior-Teacher Knowledge Distillation Model for High-Dimensional Knowledge Graph Embeddings**  <br>
@@ -97,97 +76,6 @@
 [ICETC] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3572549.3572619) <br>
 
-- **Research on Knowledge Graph Construction for Python Programming Language**  <br>
-[LNET] ()  　Springer  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-
 ## 2021
 
 - **Group Cooperative Learning Model and Its Application Based on Group Knowledge Graph**  <br>
@@ -238,47 +126,6 @@
 [ICDEL] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3474995.3475015) <br>
 
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-
 ## 2020
 
 - **Knowledge Graph Based Teaching Analysis on Circuit Course**  <br>
@@ -317,43 +164,6 @@
 [IC4E] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3450148.3450155) <br>
 
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
 ## 2019
 
 - **MOOC-KG: A MOOC Knowledge Graph for Cross-Platform Online Learning Resources**  <br>
@@ -363,50 +173,6 @@
 - **Automatic Question Generation based on MOOC Video Subtitles and Knowledge Graph**  <br>
 [ICIET] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3323771.3323820) <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
 
 ## 2018
 
@@ -422,34 +188,11 @@
 [L@S] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698) <br>
 
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-- ****  <br>
-[] ()  　ACM  <br> 
-[PDF]() <br>
-
-
 ## 2014
 
 - **Research on domain knowledge graph based on the large scale online knowledge fragment**  <br>
 [WARTIA] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6976259) <br>
-
-
 
 ## Language knowledge graph
 
@@ -457,8 +200,42 @@
 [ICALT] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9155609) <br>
 
+## English knowledge graph
 
-## 2023
+- **Visual analysis of English curriculum research based on knowledge graph**  <br>
+[CEI] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9574599) <br>
+
+- **On the Knowledge Graphs of Postgraduate Entrance English Examination Based on WordNet and D3.js**  <br>
+[ICIBA] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9276935) <br>
+
+## Math knowledge graph
+
+- **A mathematical question matching and ranking method based on knowledge graph and semantic similarity**  <br>
+[ICDSCA] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9988532) <br>
+
+## History knowledge graph
+
+- **The Realization of Cross-Media Knowledge Graph of Tang and Song Poetry**  <br>
+[ICMLC] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9469590) <br>
+
+- **CKGHV: a comprehensive knowledge graph for history visualization**  <br>
+[JCDL] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6970213) <br>
+
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]() <br>
+
+
+- ****  <br>
+[] ()  　IEEE  <br> 
+[PDF]() <br>
+
 ## 2023
 ## 2023
 ## 2023
